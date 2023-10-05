@@ -1,0 +1,17 @@
+.cabecalho {
+    display: flex;
+    padding: 24px 16px 16px 16px;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+}
+ .cabecalho img{
+    margin-left: 32px;
+    width:100px;
+ }
+.cabecalho nav ul {
+    display: none;
+    font-size: 16px;
+    gap: 16px;
+    background-color: rgb(143, 242, 67);
+}
